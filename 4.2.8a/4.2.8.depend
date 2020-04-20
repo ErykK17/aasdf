@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1586965461 source:e:\projekty codeblocks\4.2.8\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1586965461 source:e:\projekty codeblocks\4.2.8a\main.c
+	<stdio.h>
+	<stdlib.h>
+
